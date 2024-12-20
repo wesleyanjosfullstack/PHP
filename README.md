@@ -1,12 +1,22 @@
 # PHP
-Curso de PHP do curso em video
+Curso de PHP do [cursoemvideo](https://www.cursoemvideo.com/)
+Aulas disponíveis na seção [PHP Básico](https://www.cursoemvideo.com/curso/php-basico/)
+
+PHP Course [cursoemvideo](https://www.cursoemvideo.com/)
+Classes available in the section [PHP Básico](https://www.cursoemvideo.com/curso/php-basico/)
 
 ## Sobre o repositório
-Este repositório é para fins de estudo, treino e aprefeiçoamento sobre a linguagem *PHP*
+Este repositório é para fins de estudo, treino e aperfeiçoamento sobre a linguagem *PHP*
 Aulas de *PHP* com resolução e utilização de tecnologias atuais.
 Utilizanção de *HTML*, *CSS* e *JS*
 
+## About the repository
+This repository is for study, training and improvement purposes on the *PHP* language
+*PHP* classes with resolution and use of current technologies.
+Use of *HTML*, *CSS* and *JS*
+
 ## Assunto:
+## Subject:
 ### [Aula 04 - Variáveis em PHP](https://github.com/wesleyanjosfullstack/PHP/tree/main/Aula04)
 ### [Aula 05 - Operadores Aritméticos](https://github.com/wesleyanjosfullstack/PHP/tree/main/Aula05)
 ### [Aula 06 - Operadores de Atribuição](https://github.com/wesleyanjosfullstack/PHP/tree/main/Aula06)
@@ -22,4 +32,10 @@ Utilizanção de *HTML*, *CSS* e *JS*
 ### [Aula 16 - Funções String em PHP - parte 1](https://github.com/wesleyanjosfullstack/PHP/tree/main/Aula16)
 ### [Aula 17 - Funções String em PHP - parte 2](https://github.com/wesleyanjosfullstack/PHP/tree/main/Aula17)
 ### [Aula 18 - Vetores e Matrizes - parte 1](https://github.com/wesleyanjosfullstack/PHP/tree/main/Aula18)
-### [Aula 19 - Vetores e Matrizes - parte 2](https://github.com/wesleyanjosfullstack/PHP/tree/main/Aula19)
+### [Aula 19 - Vetores e Matrizes - parte 2](https://github.com/wesleyanjosfullstack/PHP/tree/main/Aula19) 
+
+## Conclusão
+As aulas acima tem como objetivo de aprender o básico da linguagem de programação PHP, sendo o básico da programação precedural que vemos em uma instituição de ensino ou curso introdutório. Estudei este curso como forma de reaprender, melhorar e me aprofundar mais ainda no conteúdo sendo este a linguagem PHP7.
+
+## Conclusion
+The above classes aim to learn the basics of the PHP programming language, which is the basics of precedural programming that we see in an educational institution or introductory course. I studied this course as a way to relearn, improve and delve deeper into the content, which is the PHP7 language.
