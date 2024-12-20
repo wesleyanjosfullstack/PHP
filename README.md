@@ -7,7 +7,7 @@ Aulas de *PHP* com resolução e utilização de tecnologias atuais.
 Utilizanção de *HTML*, *CSS* e *JS*
 
 ## Assunto:
-### Aula 04 - Variáveis em PHP
+### [Aula 04 - Variáveis em PHP](https://github.com/wesleyanjosfullstack/PHP/tree/main/Aula04)
 ### Aula 05 - Operadores Aritméticos
 ### Aula 06 - Operadores de Atribuição
 ### Aula 07 - Operadores Relacionais
